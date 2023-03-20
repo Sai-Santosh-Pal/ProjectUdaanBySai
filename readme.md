@@ -12,7 +12,7 @@ For installing, you must download Python 3
 
 - If it doesn't work, download the ```.zip``` file and extract it.
 
-- Now open the extracted or cloned folder in Command Line (The Folder Name is extracted from ```.zip``` will be ``Project-Udaan-master``` and if cloned, it will be ```Project-Udaan```.
+- Now open the extracted or cloned folder in Command Line (The Folder Name is extracted from ```.zip``` will be ```Project-Udaan-master``` and if cloned, it will be ```Project-Udaan```.
 
 - Now write ```python execute.py```
 
