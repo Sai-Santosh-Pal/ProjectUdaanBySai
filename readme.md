@@ -7,7 +7,7 @@ Idea given by IIT Bombay, implementation by me. It is to break the language barr
 - Reliable ✔
 - Useful ✨
 ## Installation
-For installing, you must download Python 3 
+For installing, you must download Python 3.9 or above 
 - Clone the project ```git clone https://github.com/Sai-Santosh-Pal/Project-Udaan.git```
 
 - If it doesn't work, download the ```.zip``` file and extract it.
