@@ -20,4 +20,8 @@ For installing, you must download Python 3
 Example Video -
 [https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link](https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link)
 
-### Follow On Instagram - [@ssntshpal](https://www.instagram.com/ssntshpl/)
+
+## Contact
+- Follow On Instagram - [@ssntshpal](https://www.instagram.com/ssntshpl/)
+- Mail Me - [saisantoshpal2010@gmail.com](mailto:saisantoshpal2010@gmail.com)
+
