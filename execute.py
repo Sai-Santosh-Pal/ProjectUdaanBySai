@@ -20,4 +20,5 @@ with ZipFile(".\package.zip", 'r') as zObject:
     zObject.extractall(
         path=".\\")
 import os
+os.chdir("./v0.2/")
 os.system("python main.py")
