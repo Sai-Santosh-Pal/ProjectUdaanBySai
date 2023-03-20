@@ -6,29 +6,15 @@ Idea given by IIT Bombay, implementation by me. It is to break the language barr
 - Reliable ✔
 - Useful ✨
 ## Installation
-For installing, you must download Python 3
-There are two ways to do it -
-1.  - Go to the command line and write,
-    ```git clone https://github.com/Sai-Santosh-Pal/Project-Udaan.git```
-    
-    - If in case it doesn't work download the ```.zip``` file and extract it.
-    
-    - Now in the commamd line write,
-    
-        ```cd  Project Udaan```
+For installing, you must download Python 3 
+- Clone the project ```git clone https://github.com/Sai-Santosh-Pal/Project-Udaan.git```
 
-        ```python main.py```
-   
-    
-2.  - Clone the project
-    ```git clone https://github.com/Sai-Santosh-Pal/Project-Udaan.git```
-    
-    - If it doesn't work, download the ```.zip``` file and extract it.
-    
-    - Now open the extracted or cloned folder in File Explorer.
-    
-    - Go to ```dist/main``` and then
-    Double-click on ```Project Udaan.exe```
+- If it doesn't work, download the ```.zip``` file and extract it.
+
+- Now open the extracted or cloned folder in Command Line.
+
+- Now write ```python execute.py```
 
 ## Example
-(Coming Soon)
+Example Video -
+[https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link](https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link)
