@@ -1,7 +1,8 @@
 # Project Udaan
 
+## Introduction
 Idea given by IIT Bombay, implementation by me. It is to break the language barrier. It can translate pdf files to many Indian languages in 4-5 clicks. The accuracy rate is 85%, which is a good number. Currently it is only for Windows but in the near future, I will work on Mac OS and Linux too.
-### Advantages
+## Advantages
 - Fast 💨
 - Reliable ✔
 - Useful ✨
