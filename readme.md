@@ -19,3 +19,5 @@ For installing, you must download Python 3
 ## Example
 Example Video -
 [https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link](https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link)
+
+### Follow On Instagram - [@ssntshpal](https://www.instagram.com/ssntshpl/)
