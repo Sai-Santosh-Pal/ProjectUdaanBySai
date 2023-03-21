@@ -6,7 +6,6 @@ pip.main(['install', 'Pillow'])
 pip.main(['install', 'pytesseract'])
 pip.main(['install', 'zipfile'])
 pip.main(['install', 'fitz'])
-pip.main(['uninstall', 'googletrans'])
 pip.main(['install', 'googletrans==4.0.0rc1', '--user'])
 
 import os
