@@ -16,6 +16,9 @@ For installing, you must download Python 3.9 or above
 
 - Now write ```python execute.py```
 
+- Now you can use the app
+
+- The translated file will be in MachineReadable folder or NonMachineReadable folder
 ## Example
 Example Video -
 [https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link](https://drive.google.com/file/d/17vLT96RYR3tS3Z_U_7jQUW1Izpe1Wp0O/view?usp=share_link)
