@@ -7,11 +7,8 @@ pip.main(['install', 'Pillow'])
 pip.main(['install', 'pytesseract'])
 pip.main(['install', 'zipfile'])
 pip.main(['install', 'fitz'])
-try:
-  pip.main(['uninstall', 'googletrans'])
-  pip.main(['install', 'googletrans==4.0.0rc1'])
-except Exception:
-  pip.main(['install', 'googletrans==4.0.0rc1'])
+pip.main(['uninstall', 'googletrans'])
+pip.main(['install', 'googletrans==4.0.0rc1', '--user'])
 
 import os
 os.chdir("./v0.2/")
