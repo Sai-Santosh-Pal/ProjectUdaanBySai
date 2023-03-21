@@ -104,7 +104,7 @@ def openFile(lang):
         
         entry_1.delete("1.0","end")
         for i in val:
-            print(i)
+#             print(i)
             entry_1.insert(tkinter.END, i)
             convertToPdf(str(i), lang)
 
